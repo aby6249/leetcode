@@ -15,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aby6249/leetcode/tree/master/0009-palindrome-number) |
+| [2491-smallest-even-multiple](https://github.com/aby6249/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/aby6249/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/aby6249/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
