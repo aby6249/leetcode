@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/aby6249/leetcode/tree/master/0371-sum-of-two-integers) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/aby6249/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
