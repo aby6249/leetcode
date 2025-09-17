@@ -8,10 +8,9 @@ var containsDuplicate = function(nums) {
         if (num.has(grill)){
             return true
         }
-        else{
+        
             (num.add(grill))
             
-        }
     }
     return false
 };
