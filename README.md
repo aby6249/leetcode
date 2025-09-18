@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/aby6249/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
