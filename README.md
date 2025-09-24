@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aby6249/leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/aby6249/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/aby6249/leetcode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/aby6249/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/aby6249/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2812-find-the-maximum-achievable-number](https://github.com/aby6249/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aby6249/leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/aby6249/leetcode/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/aby6249/leetcode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aby6249/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/aby6249/leetcode/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
