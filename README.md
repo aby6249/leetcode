@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/aby6249/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/aby6249/leetcode/tree/master/2058-concatenation-of-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aby6249/leetcode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/aby6249/leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
