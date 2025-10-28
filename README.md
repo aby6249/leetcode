@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aby6249/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/aby6249/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/aby6249/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/aby6249/leetcode/tree/master/2507-number-of-common-factors) |
 | [2812-find-the-maximum-achievable-number](https://github.com/aby6249/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aby6249/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/aby6249/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/aby6249/leetcode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/aby6249/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aby6249/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/aby6249/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
