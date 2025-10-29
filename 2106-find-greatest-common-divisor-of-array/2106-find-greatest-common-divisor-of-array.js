@@ -2,13 +2,13 @@
  * @param {number[]} nums
  * @return {number}
  */
-var findGCD = function(nums) {
-    let a=Math.min(...nums)
-    let b= Math.max(...nums)
-    while (b){
-        let gill=b
-        b=a%b
-        a=gill
+var findGCD = function (nums) {
+    let a = Math.min(...nums)
+    let b = Math.max(...nums)
+    while (b) {
+        let gill = b
+        b = a % b
+        a = gill
     }
     return a
 };
