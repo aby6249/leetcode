@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aby6249/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/aby6249/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aby6249/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/aby6249/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aby6249/leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
