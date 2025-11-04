@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/aby6249/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aby6249/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aby6249/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2881-split-strings-by-separator](https://github.com/aby6249/leetcode/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/aby6249/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/aby6249/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aby6249/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2881-split-strings-by-separator](https://github.com/aby6249/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3379-score-of-a-string](https://github.com/aby6249/leetcode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
