@@ -112,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/aby6249/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/aby6249/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aby6249/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
