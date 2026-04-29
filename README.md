@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aby6249/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/aby6249/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/aby6249/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aby6249/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2058-concatenation-of-array](https://github.com/aby6249/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aby6249/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aby6249/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/aby6249/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/aby6249/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/aby6249/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aby6249/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aby6249/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2881-split-strings-by-separator](https://github.com/aby6249/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3379-score-of-a-string](https://github.com/aby6249/leetcode/tree/master/3379-score-of-a-string) |
