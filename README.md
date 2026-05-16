@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aby6249/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aby6249/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/aby6249/leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aby6249/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/aby6249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aby6249/leetcode/tree/master/0217-contains-duplicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aby6249/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/aby6249/leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/aby6249/leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1729-find-followers-count](https://github.com/aby6249/leetcode/tree/main/1729-find-followers-count/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aby6249/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
